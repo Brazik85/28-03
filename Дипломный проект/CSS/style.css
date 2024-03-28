@@ -1,0 +1,65 @@
+.header {
+position: absolute;
+width: 2547px;
+height: 224px;
+left: -298px;
+top: 4px;
+}
+
+.ace {
+    width: 1903px;
+    height: 567px;
+    top: 233px;
+    background-color: #ecd0A6;
+    display: flex;
+}
+
+.ace_clubs {
+    width: 118px;
+    height: 118px;
+    left: 884px;
+    top: 258px;
+    border-radius: 50%;
+    background-color: #b0751b;
+    z-index: 2;
+    position: relative;
+    text-align: center;
+}
+
+.ace_diamonds {
+    width: 505px;
+    height: 168px;
+    top: 322px;
+    left: 395px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.security {
+font-family: Roboto;
+font-size: 72px;
+font-weight: 700;
+line-height: 84.38px;
+text-align: left;
+
+
+}
+.text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.ace_spades {
+    position: relative;
+    width: 390px;
+    height: 312px;
+    top: 296px;
+    left: 300px;
+}
+.kaska {
+    width: 390px;
+    height: 312px;
+}
